@@ -7,9 +7,9 @@
 _____________
 
 ## 4 семестр
-### [Лабораторные работы](https://github.com/vektoririna/vektoririna.github.io/blob/main/sem4/LR.md)
-### [Инвариантные самостоятельные работы](https://github.com/vektoririna/vektoririna.github.io/blob/main/sem4/ISR.md)
-### [Вариативные самостоятельные работы](https://github.com/vektoririna/vektoririna.github.io/blob/main/sem4/VSR.md)
+### [Лабораторные работы](https://vektoririna.github.io/sem4/LR)
+### [Инвариантные самостоятельные работы](https://vektoririna.github.io/sem4/ISR)
+### [Вариативные самостоятельные работы](https://vektoririna.github.io/sem4/VSR)
 _____________
 
 ## 5 семестр
