@@ -25,5 +25,5 @@ _____________
 _____________
 
 ## 7 семестр
-### [Лабораторные работы](https://vektoririna.github.io/sem6/LR)
+### [Лабораторные работы](https://vektoririna.github.io/sem7/LR)
 _____________
