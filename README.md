@@ -23,3 +23,7 @@ _____________
 ### [Инвариантные самостоятельные работы](https://vektoririna.github.io/sem6/ISR)
 ### [Вариативные самостоятельные работы](https://vektoririna.github.io/sem6/VSR)
 _____________
+
+## 7 семестр
+### [Лабораторные работы](https://vektoririna.github.io/sem6/LR)
+_____________
