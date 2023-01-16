@@ -15,20 +15,20 @@
 
 ## Лабораторная работа 5 - частеречная разметка
 
-Выполненная работа размещена по [ссылке](https://replit.com/@IrinaVektor/sem4-t1-lr7-1#main.py).
+Выполненная работа размещена по [ссылке](https://vektoririna.github.io/sem7/lr-5.html).
 
-## Лабораторная работа 6 - частеречная разметка
+## Лабораторная работа 6 - NLP
 
-Выполненная работа размещена по [ссылке](https://replit.com/@IrinaVektor/sem4-t1-lr7-1#main.py).
+Выполненная работа размещена по [ссылке](https://vektoririna.github.io/sem7/NLP.html).
 
-## Лабораторная работа 7 - частеречная разметка
+## Лабораторная работа 7 - Flack
 
-Выполненная работа размещена по [ссылке](https://replit.com/@IrinaVektor/sem4-t1-lr7-1#main.py).
+Выполненная работа размещена по [ссылке](https://replit.com/@IrinaVektor/prog7-t3-lr7#simpleapp.py).
 
-## Лабораторная работа 8 - частеречная разметка
+## Лабораторная работа 8 - Docker
 
-Выполненная работа размещена по [ссылке](https://replit.com/@IrinaVektor/sem4-t1-lr7-1#main.py).
+Выполненная работа размещена по [ссылке](https://replit.com/@IrinaVektor/prog7-t3-lr8#app.py).
 
 ## Групповое задание CI/CD
 
-Выполненная работа размещена по [ссылке](https://replit.com/@IrinaVektor/sem4-t1-lr7-1#main.py).
+Выполненная работа размещена по [ссылке](https://github.com/EgorChalapko/CICDProject).
