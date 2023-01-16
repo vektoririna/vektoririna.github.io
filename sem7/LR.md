@@ -2,7 +2,8 @@
 
 ## Лабораторная работа 1,2 - численное интегрирование и оптимизация
 
-Выполненная работа 1 размещена по [ссылке](https://replit.com/@IrinaVektor/prog7-t1-lr1-Sorokina#main.py). 
+Выполненная работа 1 размещена по [ссылке](https://replit.com/@IrinaVektor/prog7-t1-lr1-Sorokina#main.py).
+ 
 Оптимизация размещена по [ссылке](https://replit.com/@IrinaVektor/prog7-t1-lr1-2-Sorokina#main.py).
 
 ## Лабораторная работа 3 - Cython, потоки, joblib
@@ -15,7 +16,7 @@
 
 ## Лабораторная работа 5 - частеречная разметка
 
-Выполненная работа размещена по [ссылке](https://vektoririna.github.io/sem7/lr-5.html).
+Выполненная работа размещена по [ссылке](https://vektoririna.github.io/sem7/lr_5.html).
 
 ## Лабораторная работа 6 - NLP
 
