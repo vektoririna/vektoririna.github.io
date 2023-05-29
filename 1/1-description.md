@@ -3,7 +3,7 @@
 ______________________
 
 
-## Информатика
+## [Информатика](https://drive.google.com/drive/folders/1eQh_gNg011XRouFTFyR61GmOyZrF1I-f?usp=sharing)
 
 ## Программирование
 
