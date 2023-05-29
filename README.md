@@ -3,9 +3,4 @@
 >*В этом портфолио я хотел бы поделиться своими достижениями и результатами обучения за 4 года. Я надеюсь, что мой опыт и знания будут полезными для тех, кто также интересуется информационными технологиями и их применением в реальной жизни.*
 _____________
 
-<kbd>CTRL</kbd>
-<button>Кнопка с текстом</button>
-<form action="https://you-hands.ru" method="GET">
-	<button type="submit" >Кнопка как ссылка</button>
-</form>
-<a href="#" style="background-color: black; color: yellow; border: 2px solid yellow; display: inline-block; width: 100px; height: 100px; text-align: center; line-height: 100px;">Кнопка</a>
+<a href="#" style="background-color: #ffcd00; color: beige; border: 2px solid black; display: inline-block; width: 100px; height: 100px; text-align: center; line-height: 100px; font-style: italic;">Кнопка</a> <a href="#" style="background-color: #ffcd00; color: beige; border: 2px solid black; display: inline-block; width: 100px; height: 100px; text-align: center; line-height: 100px; font-style: italic;">Кнопка</a> <a href="#" style="background-color: #ffcd00; color: beige; border: 2px solid black; display: inline-block; width: 100px; height: 100px; text-align: center; line-height: 100px; font-style: italic;">Кнопка</a> <a href="#" style="background-color: #ffcd00; color: beige; border: 2px solid black; display: inline-block; width: 100px; height: 100px; text-align: center; line-height: 100px; font-style: italic;">Кнопка</a>
