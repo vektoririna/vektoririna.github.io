@@ -21,3 +21,13 @@ ______________________
 #### 2 семестр
 
 <a href="https://drive.google.com/open?id=1aySPDDxCCs8OP-6xVShJDtFYuQF_J-sr&usp=drive_copy" style="background-color: #1b1b1a; color: #f0e8d6; border: 3px solid #ffcd00; display: inline-block; width: 150px; height: 60px; text-align: center; line-height: 60px; font-style: italic;"> Физика </a>
+<a href="https://drive.google.com/open?id=1o2PAxTy0elMd3fUOyxvxWtZMq81aOiR0&usp=drive_copy" style="background-color: #1b1b1a; color: #f0e8d6; border: 3px solid #ffcd00; display: inline-block; width: 150px; height: 60px; text-align: center; line-height: 60px; font-style: italic;"> Аналит. геометрия  </a>
+<a href="https://drive.google.com/open?id=1pafNxgTtS75-RMArT24UVg2WVbFJYzj7&usp=drive_copy" style="background-color: #1b1b1a; color: #f0e8d6; border: 3px solid #ffcd00; display: inline-block; width: 150px; height: 60px; text-align: center; line-height: 60px; font-style: italic;"> Теория вероятности </a>
+<a href="https://drive.google.com/open?id=1gmZoutmTeVLjsPi58ENqaxo22045Bw2-&usp=drive_copy" style="background-color: #1b1b1a; color: #f0e8d6; border: 3px solid #ffcd00; display: inline-block; width: 150px; height: 60px; text-align: center; line-height: 60px; font-style: italic;"> Мат. анализ </a>
+
+<a href="https://drive.google.com/open?id=1b0gD7s3X6192LBaX4sOxEwKL58z7J3PG&usp=drive_copy" style="background-color: #1b1b1a; color: #f0e8d6; border: 3px solid #ffcd00; display: inline-block; width: 150px; height: 60px; text-align: center; line-height: 60px; font-style: italic;"> ИТ </a>
+<a href="https://drive.google.com/open?id=13CXDlZHF7_OiFzteBj2xPyrG-nFdd7nN&usp=drive_copy" style="background-color: #1b1b1a; color: #f0e8d6; border: 3px solid #ffcd00; display: inline-block; width: 150px; height: 60px; text-align: center; line-height: 60px; font-style: italic;"> Программирование  </a>
+<a href="https://drive.google.com/open?id=1Mr3F-MfTgolrR0fysP0NymBZWFuYQ3q8&usp=drive_copy" style="background-color: #1b1b1a; color: #f0e8d6; border: 3px solid #ffcd00; display: inline-block; width: 150px; height: 60px; text-align: center; line-height: 60px; font-style: italic;"> Иностранный язык </a>
+<a href="https://drive.google.com/open?id=1ksVdrc7dmoNNCi15OYGXoq1uB4U5twPG&usp=drive_copy" style="background-color: #1b1b1a; color: #f0e8d6; border: 3px solid #ffcd00; display: inline-block; width: 150px; height: 60px; text-align: center; line-height: 60px; font-style: italic;"> История </a>
+
+<a href="https://drive.google.com/open?id=1l56IanCcFT1SQWc4X5iwh1XSyXGfY9-U&usp=drive_copy" style="background-color: #1b1b1a; color: #f0e8d6; border: 3px solid #ffcd00; display: inline-block; width: 150px; height: 60px; text-align: center; line-height: 60px; font-style: italic;"> Физкультура </a>
