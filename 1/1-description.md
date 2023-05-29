@@ -6,8 +6,8 @@ ______________________
 1. Проект по ИТ NFC
 2. Экономика
 3. ИТ в физике про планеты
-4. -
-5. -
+4. Матрицы на С
+5. Матрицы на паскале
 
 ______________________
 
@@ -19,3 +19,5 @@ ______________________
 <a href="https://drive.google.com/open?id=17NYTzqsiNa2YzyjQogrMzz-oCIQJJBui&usp=drive_copy" style="background-color: #1b1b1a; color: #f0e8d6; border: 3px solid #ffcd00; display: inline-block; width: 150px; height: 60px; text-align: center; line-height: 60px; font-style: italic;"> ЛАТМ </a> <a href="https://drive.google.com/open?id=1hPkGeGWoBhRo5Akgmx9rbaWV6vfDdWtR&usp=drive_copy" style="background-color: #1b1b1a; color: #f0e8d6; border: 3px solid #ffcd00; display: inline-block; width: 150px; height: 60px; text-align: center; line-height: 60px; font-style: italic;"> Философия </a> <a href="https://drive.google.com/open?id=1jR7HTEomF-jopleZBVJLCt8I5gNhIbnxFnIQYJmSohY&usp=drive_copy" style="background-color: #1b1b1a; color: #f0e8d6; border: 3px solid #ffcd00; display: inline-block; width: 150px; height: 60px; text-align: center; line-height: 60px; font-style: italic;"> БЖД </a> <a href="https://drive.google.com/open?id=1RqSNB7I_tHCK5yWM1BueaDOvoPHxGSmp&usp=drive_copy" style="background-color: #1b1b1a; color: #f0e8d6; border: 3px solid #ffcd00; display: inline-block; width: 150px; height: 60px; text-align: center; line-height: 60px; font-style: italic;"> Иностранный язык </a>
 
 #### 2 семестр
+
+<a href="https://drive.google.com/open?id=1aySPDDxCCs8OP-6xVShJDtFYuQF_J-sr&usp=drive_copy" style="background-color: #1b1b1a; color: #f0e8d6; border: 3px solid #ffcd00; display: inline-block; width: 150px; height: 60px; text-align: center; line-height: 60px; font-style: italic;"> Физика </a>
