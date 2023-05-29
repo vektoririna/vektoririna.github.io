@@ -8,3 +8,4 @@ _____________
 <form action="https://you-hands.ru" method="GET">
 	<button type="submit" >Кнопка как ссылка</button>
 </form>
+<a href="#" style="background-color: black; color: yellow; border: 2px solid yellow; display: inline-block; width: 100px; height: 100px; text-align: center; line-height: 100px;">Кнопка</a>
